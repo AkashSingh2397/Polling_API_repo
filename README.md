@@ -4,7 +4,7 @@ API for Polling Questions - Coding Ninjas Backend Skill Test Project
 Task: Need to create an API where anyone can create questions with options and also add votes to it
 
 ---
-# hosted link is redirecting to readme file; here i have explained everything that is neede to run the project over postman; now you have to follow the following steps over postman.
+## hosted link is redirecting to readme file; here i have explained everything that is needed to run the project over postman; now you have to follow the following steps over postman.
 
 ## Features
 - Create a question
